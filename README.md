@@ -3,4 +3,4 @@ Kreirane je dll datoteka. Ukoliko izbrišemo dll datoteku, aplikacija baca iznim
 # Pitanje 2.:
 Koristi se stara verzija class library asemblija jer se asembli spaja s programom tek kod build-anja.
 # Pitanje 3.:
-Aplikacija se uspjesno build-a. 
+Aplikacija se uspjesno build-a, u packages direktorij se ponovno preuzme izbirsani NuGet paket.
